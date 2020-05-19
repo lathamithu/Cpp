@@ -1,4 +1,4 @@
-# Day 1
+# Part 1
     1) Find the fibonacci series
     2) Find the nth prime number
     3) Find the prime number
